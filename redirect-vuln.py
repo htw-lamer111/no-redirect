@@ -11,7 +11,7 @@ try:
 	....⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠂
 	⠄⠄⣰⣾⣿⣿⣿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣆⠄⠄
 	⠄⠄⣿⣿⣿⡿⠋⠄⡀⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⣉⣉⣉⡉⠙⠻⣿⣿⠄⠄
-	⠄⠄⣿⣿⣿⣇⠔⠈⣿⣿⣿⣿⣿⡿⠛⢉⣤⣶⣾⣿⣿⣿⣿⣿⣿⣦⡀⠹⠄⠄ github: https://github.com/htw-lamer111
+	⠄⠄⣿⣿⣿⣇⠔⠈⣿⣿⣿⣿⣿⡿⠛⢉⣤⣶⣾⣿⣿⣿⣿⣿⣿⣦⡀⠹⠄⠄ 
 	⠄⠄⣿⣿⠃⠄⢠⣾⣿⣿⣿⠟⢁⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄⠄
 	⠄⠄⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠄⠄
 	⠄⠄⣿⣿⣿⣿⣿⡟⠁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
@@ -35,8 +35,9 @@ try:
 	NN  N O   O     R   R E    D  D  I  R   R E    C      TT   
 	N N N O   O --- RRRR  EEE  D  D  I  RRRR  EEE  C      TT   
 	N  NN O   O     R R   E    D  D  I  R R   E    C      TT   
-	N   N  OOO      R  RR EEEE DDD  III R  RR EEEE  CCC   TT   
-	                                                          
+	N   N  OOO      R  RR EEEE DDD  III R  RR EEEE  CCC   TT 
+	
+	github: https://github.com/htw-lamer111	                                                          
 			""")
 	newurl = []
 	print("url example: https://site/admin/login.php")
